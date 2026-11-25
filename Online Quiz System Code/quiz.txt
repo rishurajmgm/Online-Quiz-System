@@ -1,0 +1,3 @@
+Which keyword is used to create an object in Java?|class|new|this|static|B
+Which data structure works on First In First Out (FIFO)?|Queue|Stack|Array|Tree|A
+Which data structure works on Last In First Out (LIFO)?|Queue|Array|Stack|Graph|C
